@@ -1,4 +1,7 @@
-# stacore
+# PSD to HTML
+
+The development is in progress, you can find the live URL here:
+https://peaceful-kare-f6ab22.netlify.app/
 
 ## Project setup
 ```
